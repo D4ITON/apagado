@@ -21,8 +21,7 @@ Eso nos creará las carpetas /dist y /build donde en /dist se encontrará el .ex
 
 ## Uso
 
-Ejecutamos ya sea desde el archivo .py o .exe y nos mostrará una ventana de en cuanto tiempo queremos apagar el equipo
-Tiempos validos: 20s | 15m | 1h
+Ejecutamos ya sea desde el archivo .py o .exe y nos mostrará una ventana de en cuanto tiempo queremos apagar el equipo.
 
 <br>
 <br>
